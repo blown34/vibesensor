@@ -1,8 +1,13 @@
 # vibesensor
 Ultra Sensitive PIEZO VIBRATION SENSOR (detector)
-https://www.youtube.com/watch?v=PuCPrqZChKc  
-https://www.youtube.com/watch?v=Uo7RD28HdAY&t=22s
-https://www.youtube.com/watch?v=K3lNiC3RexI&t=17s
+
+https://www.youtube.com/watch?v=PuCPrqZChKc (How to make a quick SENSITIVE PIEZO VIBRATION SENSOR and interface - DIY for Arduino Raspberry Pi)
+
+https://www.youtube.com/watch?v=Uo7RD28HdAY&t=22s (Ultra Sensitive PIEZO VIBRATION SENSOR demo)
+
+https://www.youtube.com/watch?v=K3lNiC3RexI&t=17s (UV-5R Call Button Hack for Bike Alarm)
+
+https://www.youtube.com/watch?v=-3LGOeC2N48 (Vibration detector with Amateur Radio Alarm)
 
 This is a simple but effective circuit that uses a piezo speaker element out of an old smoke detector to detect vibrations.
 The signal is processed by the 741 op amp, then sent to a small cheap microcontroller (Atmel ATTiny85).
