@@ -12,7 +12,7 @@ There are a ton of Youtube videos on this subject.
 
 The project was originally for an eBike alarm. The output of the Attiny (via a Chinese relay module) would electrically close ("press")
 the dedicated alarm button on a hacked cheap handheld amateur radio (Baofeng UV-5R). The radio would then broadcast the alarm signal
-to me via amateur radiowaves to another handheld radio on the same frequency that i carried. I worked perfectly.
+to me via amateur radiowaves to another handheld radio on the same frequency that i carried. It worked perfectly.
 You couldn't even touch the bike without the alarm going off, let alone try and steal it. The source code example,
 with its strange delays, is based on this specific application. Your needs, obviously, may differ.
 
