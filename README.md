@@ -1,6 +1,8 @@
 # vibesensor
 Ultra Sensitive PIEZO VIBRATION SENSOR (detector)
 
+There are several related videos I've made that can be found here:
+
 https://www.youtube.com/watch?v=PuCPrqZChKc (How to make a quick SENSITIVE PIEZO VIBRATION SENSOR and interface - DIY for Arduino Raspberry Pi)
 
 https://www.youtube.com/watch?v=Uo7RD28HdAY&t=22s (Ultra Sensitive PIEZO VIBRATION SENSOR demo)
