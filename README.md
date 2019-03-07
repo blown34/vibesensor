@@ -17,7 +17,7 @@ You couldn't even touch the bike without the alarm going off, let alone try and 
 with its strange delays, is based on this specific application. Your needs, obviously, may differ.
 
 For the NOOBS, the circuit worked perfectly for me, so hopefully I made no errors in my schematic (created 6 months later). I did check
-it several times. But if I did, I will try to eventually correct.
+it several times. But if I made an error, I will try to eventually correct.
 You can leave me a comment on youtube. https://www.youtube.com/watch?v=PuCPrqZChKc  
 HOWEVER, please keep in mind that I don't check that youtube account very often so STOP, BREATHE, DON'T PANIC, use your brain,
 break the problem down into simple parts, and test one stage at a time from the beginning. Voltages, connections, etc...
@@ -26,6 +26,8 @@ the ATTiny and just focus your attention on that. Test each section as you go al
 It may be a while before I make any corrections...
 
 Good luck!
+
+THIS IS NOT AN ACTIVE PROJECT. No further posts or development is to be expected.
 
 Obviously, I MAKE ABSOLUTELY NO REPRESENTATIONS OR WARRANTIES WHATSOEVER,
 EXPRESS OR IMPLIED, REGARDING THE INFORMATION CONTAINED HEREIN, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTY OF MERCHANTABILITY
