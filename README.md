@@ -2,6 +2,7 @@
 Ultra Sensitive PIEZO VIBRATION SENSOR (detector)
 https://www.youtube.com/watch?v=PuCPrqZChKc  
 https://www.youtube.com/watch?v=Uo7RD28HdAY&t=22s
+https://www.youtube.com/watch?v=K3lNiC3RexI&t=17s
 
 This is a simple but effective circuit that uses a piezo speaker element out of an old smoke detector to detect vibrations.
 The signal is processed by the 741 op amp, then sent to a small cheap microcontroller (Atmel ATTiny85).
@@ -13,15 +14,15 @@ The Arduino IDE can be found here: https://www.arduino.cc/
 There are a ton of Youtube videos on this subject.
 
 The project was originally for an eBike alarm. The output of the Attiny (via a Chinese relay module) would electrically close ("press")
-the dedicated alarm button on a hacked cheap handheld amateur radio (Baofeng UV-5R). The radio would then broadcast the alarm signal
-to me via amateur radiowaves to another handheld radio on the same frequency that i carried. It worked perfectly.
-You couldn't even touch the bike without the alarm going off, let alone try and steal it. The source code example,
-with its strange delays, is based on this specific application. Your needs, obviously, may differ.
+the dedicated alarm button on a hacked cheap handheld amateur radio (Baofeng UV-5R). (see video here: https://www.youtube.com/watch?v=K3lNiC3RexI&t=17s) The radio would then broadcast the alarm signal to me via amateur radiowaves to another handheld
+radio on the same frequency that i carried. It worked perfectly. You couldn't even touch the bike without the alarm going off,
+let alone try and steal it. The source code example, with its strange delays, is based on this specific application.
+Your needs, obviously, may differ.
 
 For the NOOBS, the circuit worked perfectly for me, so hopefully I made no errors in my schematic (created 6 months later). I did check
 it several times. But if I made an error, I will try to eventually correct.
 You can leave me a comment on the initial video here: https://www.youtube.com/watch?v=PuCPrqZChKc  
-or on the DEMO video here: https://www.youtube.com/watch?v=Uo7RD28HdAY&t=22s
+or on the final DEMO video here: https://www.youtube.com/watch?v=Uo7RD28HdAY&t=22s
 HOWEVER, please keep in mind that I don't check that youtube account very often so STOP, BREATHE, DON'T PANIC, use your brain,
 break the problem down into simple parts, and test one stage at a time from the beginning. Voltages, connections, etc...
 If you're not getting any flashes out of the LED on the output of the 741, then you might as well disconnect
