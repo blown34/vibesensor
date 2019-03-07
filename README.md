@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=-3LGOeC2N48 (Vibration detector with Amateur Rad
 
 This is a simple but effective circuit that uses a piezo speaker element out of an old smoke detector to detect vibrations.
 The signal is processed by the 741 op amp, then sent to a small cheap microcontroller (Atmel ATTiny85).
-The microcontroller then makes some decisions and adjust its output accordingly.
+The microcontroller then makes some decisions and adjust its output accordingly. It wouldn't take much to shrink the circuit down to a small surface-mount design. As it is, it's a bit bulky.
 
 A simple way to program the ATTiny85 chip, is to use the Sparkfun Tiny AVR Programmer and the Arduino IDE program.
 The programmer can be found here: https://www.sparkfun.com/products/11801 (or just search "Tiny AVR Programmer")
