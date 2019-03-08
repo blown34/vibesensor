@@ -25,8 +25,8 @@ Your needs, obviously, may differ.
 
 For the NOOBS, the circuit worked perfectly for me, so hopefully I made no errors in my schematic (created 6 months later). I did check
 it several times. But if I made an error, I will try to eventually correct.
-You can leave me a comment on the initial video here: https://www.youtube.com/watch?v=PuCPrqZChKc  
-or on the final DEMO video here: https://www.youtube.com/watch?v=Uo7RD28HdAY&t=22s
+You can leave me a comment on the initial video here: https://www.youtube.com/watch?v=PuCPrqZChKc or on the final DEMO video here:
+https://www.youtube.com/watch?v=Uo7RD28HdAY&t=22s
 HOWEVER, please keep in mind that I don't check that youtube account very often so STOP, BREATHE, DON'T PANIC, use your brain,
 break the problem down into simple parts, and test one stage at a time from the beginning. Voltages, connections, etc...
 If you're not getting any flashes out of the LED on the output of the 741, then you might as well disconnect
