@@ -20,7 +20,7 @@ The programmer can be found here: https://www.sparkfun.com/products/11801 (or ju
 The Arduino IDE can be found here: https://www.arduino.cc/
 There are a ton of Youtube videos on this subject.
 
-The project was originally intended for an eBike alarm. The output of the ATTiny (via a Chinese relay module) would electrically close ("press") the dedicated alarm button on a hacked cheap handheld amateur radio (Baofeng UV-5R). (see video here: https://www.youtube.com/watch?v=K3lNiC3RexI&t=17s) The radio would then broadcast the alarm signal to me via amateur radiowaves to another handheld radio on the same frequency that i carried. It worked perfectly. You couldn't even touch the bike without the alarm going off, let alone try and steal it. (Demo here: https://www.youtube.com/watch?v=-3LGOeC2N48) The source code example, with its strange delays, is based on this specific application.
+The project was originally intended for an eBike alarm. The output of the ATTiny (via a Chinese relay module) would electrically close ("press") the dedicated alarm button on a hacked cheap handheld amateur radio (Baofeng UV-5R). (Hacked radio here: https://www.youtube.com/watch?v=K3lNiC3RexI&t=17s) The radio would then broadcast the alarm signal to me via amateur radiowaves to another handheld radio on the same frequency that i carried. It worked perfectly. You couldn't even touch the bike without the alarm going off, let alone try and steal it. (Full demo here: https://www.youtube.com/watch?v=-3LGOeC2N48) The source code example, with its strange delays, is based on this specific application.
 Your needs, obviously, may differ.
 
 For the NOOBS, the circuit worked perfectly for me, so hopefully I made no errors in my schematic (created 6 months later). I did check
