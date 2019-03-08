@@ -29,7 +29,7 @@ You can leave me a comment on the initial video here: https://www.youtube.com/wa
 HOWEVER, please keep in mind that I don't check that youtube account very often so STOP, BREATHE, DON'T PANIC, use your brain,
 break the problem down into simple parts, and test one stage at a time from the beginning. Voltages, connections, etc...
 If you're not getting any flashes out of the LED on the output of the 741, then you might as well disconnect
-the ATTiny and just focus your attention on that. Test each section as you go along and you should be fine.
+the ATTiny and just focus your attention on that. Test each section as you build it and fix any glitches before you move on and you should be fine. For example, get the power supply working and tested first! Is it exactly 5volts? Good, then test the piezo element maybe with an oscilloscope, then the op amp section etc. Make sure you can get a basic LED blinking sketch working on the ATTiny85 before you load my code and wire it up. Make sure you ATTiny works!
 It may be a while before I make any corrections...
 
 Good luck!
